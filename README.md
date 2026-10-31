@@ -1,4 +1,4 @@
-# Multi-Industry Financial Statement & Ratio Analysis Tool
+# Multi-Industry Financial Ratio Analysis Tool
 
 An automated Python pipeline that pulls financial statements via `yfinance`, extracts key income statement, balance sheet, and cash flow line items, and computes 7 fundamental financial metrics across 5 distinct industry business models (SYK, SNOW, KO, NVDA, XOM).
 
